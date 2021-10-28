@@ -8,8 +8,6 @@ export default function Home() {
         <title>Amazon Clone</title>
       </Head>
 
-      <h1>Hello there</h1>
-
       {/* Header */}
       <Header />
 
