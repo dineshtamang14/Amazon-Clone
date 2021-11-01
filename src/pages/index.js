@@ -8,6 +8,7 @@ export default function Home({products}) {
     <div className="bg-gray-100">
       <Head>
         <title>Amazon Clone</title>
+        <link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
       </Head>
 
       {/* Header */}
