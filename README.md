@@ -1,7 +1,7 @@
 # Amazon-Clone
 
 live link:
-  https://amazon-delta-two.vercel.app/
+  https://amazon-clone-five-fawn.vercel.app/
 
 ![1](https://user-images.githubusercontent.com/59863035/139671856-1877df9e-d47c-4c5a-a3ad-b46c9ab992c1.png)
 
