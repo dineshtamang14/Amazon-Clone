@@ -25,6 +25,7 @@ function Product({ id, title, price, description, category, image }) {
           description,
           category,
           image,
+          hasPrime,
         };
 
         // sending the product as an action to the redux store
