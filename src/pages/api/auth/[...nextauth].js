@@ -10,6 +10,20 @@ export default NextAuth({
       clientSecret: process.env.GOOGLE_SECRET,
     }),
     // ...add more providers here
+    Providers.Facebook({
+      clientId: process.env.GOOGLE_ID,
+      clientSecret: process.env.GOOGLE_SECRET,
+    }),
+
+    Providers.LinkedIn({
+      clientId: process.env.GOOGLE_ID,
+      clientSecret: process.env.GOOGLE_SECRET,
+    }),
+
+    Providers.GitHub({
+      clientId: process.env.GOOGLE_ID,
+      clientSecret: process.env.GOOGLE_SECRET,
+    }),
   ],
-//   database: process.env.DATABASE_URL,
+  //   database: process.env.DATABASE_URL,
 });
